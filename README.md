@@ -35,15 +35,13 @@ The analysis aims to:
 
 The project answers the following questions:
 
-1. What are the global inflation trends?
-2. Which countries have the highest and lowest inflation rates?
-3. Which countries have experienced the greatest increase in cost of living?
-4. How does inflation vary across regions?
-5. How does cost of living vary across countries?
-6. What is the relationship between inflation and cost of living?
-7. How does Nigeria compare with selected international economies?
-8. How much of the variation in cost of living can be explained by inflation?
-
+1. What is the  overall trend  of inflation across countries overtime? 					
+2.Which countries have the highest and lowest inflation rates?				
+3. What is the relationship between inflation and cost of living?
+4. 
+5. Which countries have experienced the greatest increase in cost of living?					
+6. How does Nigeria compare with other selected countries in terms of inflation  and cost of  living?			
+7. How does inflation and cost of living vary by region? 					
 ---
 
 ## 🗃️ Dataset
