@@ -145,11 +145,60 @@ The analysis focused on:
 - Countries with the greatest cost-of-living increases.
 - Comparative analysis of selected countries.
 
----
+# 1. What is the  overall trend  of inflation across countries overtime?	
+# Year	Average of Inflation Annual Pct
+2022	82.97412488
+2023	4.831506718
+2024	7.4640097
+Grand Total	8.700128915
+	
+<img width="455" height="219" alt="image" src="https://github.com/user-attachments/assets/aace5f2b-cbed-4f8a-9b39-58dfa6ba76e1" />
 
+
+# 2.Which countries have the highest and lowest inflation rates
+## Show top-10 inflation countries
+Using the 179 records with reported inflation, sorted by annual inflation rate:
+
+Rank	Highest inflation	Year	Rate
+1	Argentina	       2024	219.88%
+2	Sudan	              2022	138.81%
+3	Zimbabwe	       2022	104.71%
+4	South Sudan	       2024	91.44%
+5	Turkiye	       2024	58.51%
+6	West Bank and Gaza	2024	53.67%
+7	Lebanon	       2024	45.24%
+8	Nigeria	       2024	33.24%
+9	Iran, Islamic Rep.	2024	32.46%
+10	Malawi       	2024	32.18%
+
+
+Rank	Lowest inflation	Year	Rate
+1	Afghanistan	       2024	-6.60%
+2	St. Lucia	       2024	-0.67%
+3	Sri Lanka	       2024	-0.43%
+4	Costa Rica	       2024	-0.41%
+5	Brunei Darussalam	2024	-0.39%
+6	China	              2024	0.22%
+7	Armenia	       2024	0.27%
+8	Seychelles	       2024	0.31%
+9	Thailand	       2024	0.40%
+10	Bahamas, The	       2024	0.41%
+
+
+The lowest figures are deflationary, meaning prices fell year-over-year. inflation_cost_of_living_dataset.xlsx (Master Data!A1:J218)
+- Compare rates by region
+- Create an inflation chart
+- Filter 2024 only
+
+# 3. What is the relationship between inflation and cost of living?
 ## 📈 Correlation Analysis
-
 Pearson correlation was used to examine the relationship between Inflation Rate and Cost of Living.
+	Correlation Matrix											
+									
+Correlation Analysis												
+**Variable 1	       Variable 2	       Pearson Correlation ( r)**								
+Inflation Rate	Cost of Living	-0.3212													
+Correlation Coefficient ( r) = -0.3212 indicates a weak negative correlation between inflation rate and cost of living.												
 
 ### Result
 
@@ -162,8 +211,6 @@ This indicates a weak-to-moderate negative linear relationship between the two v
 The result suggests that higher inflation rates were not necessarily associated with higher values of the cost-of-living measure in this particular dataset.
 
 «Important: Correlation does not imply causation.»
-
----
 
 ## 📉 Regression Analysis
 
