@@ -5,7 +5,7 @@
 "Power BI" (https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 "Data Analytics" (https://img.shields.io/badge/Data%20Analytics-Portfolio-blue)
 
-## 📌 Project Overview
+## 📌 Introduction
 
 The Global Inflation and Cost of Living Analysis project explores inflation rates and cost-of-living patterns across countries and regions.
 
