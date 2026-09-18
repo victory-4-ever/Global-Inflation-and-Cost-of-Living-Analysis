@@ -38,10 +38,9 @@ The project answers the following questions:
 1. What is the  overall trend  of inflation across countries overtime? 					
 2.Which countries have the highest and lowest inflation rates?				
 3. What is the relationship between inflation and cost of living?
-4. 
-5. Which countries have experienced the greatest increase in cost of living?					
-6. How does Nigeria compare with other selected countries in terms of inflation  and cost of  living?			
-7. How does inflation and cost of living vary by region? 					
+4. Which countries have experienced the greatest increase in cost of living?					
+5. How does Nigeria compare with other selected countries in terms of inflation  and cost of  living?			
+6. How does inflation and cost of living vary by region? 					
 ---
 
 ## 🗃️ Dataset
@@ -160,12 +159,12 @@ Grand Total	8.700128915
 Using the 179 records with reported inflation, sorted by annual inflation rate:
 
 Rank	Highest inflation	Year	Rate
-1	Argentina	       2024	219.88%
-2	Sudan	              2022	138.81%
-3	Zimbabwe	       2022	104.71%
-4	South Sudan	       2024	91.44%
-5	Turkiye	       2024	58.51%
-6	West Bank and Gaza	2024	53.67%
+1	Argentina	       		2024	219.88%
+2	Sudan	            	  2022	138.81%
+3	Zimbabwe	      		 2022	104.71%
+4	South Sudan	      		 2024	91.44%
+5	Turkiye	      			 2024	58.51%
+6	West Bank and Gaza		2024	53.67%
 7	Lebanon	       2024	45.24%
 8	Nigeria	       2024	33.24%
 9	Iran, Islamic Rep.	2024	32.46%
